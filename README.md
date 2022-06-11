@@ -21,28 +21,42 @@ Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah
 database server menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan 
 melalui XAMPP.
 
-#### Membuat Database
+#### Membuat Database & Tabel
+
+![](img/1%20satu.jpg)
 
 
-#### Membuat Tabel
 
 #### Konfigurasi koneksi database
 Selanjutnya membuat konfigurasi untuk menghubungkan dengan database server. 
 Konfigurasi dapat dilakukan dengan du acara, yaitu pada file app/config/database.php
 atau menggunakan file .env. Pada praktikum ini kita gunakan konfigurasi pada file .env.
 
+![](img/2%20dua.jpg)
+
 #### Membuat Model
 Selanjutnya adalah membuat Model untuk memproses data Artikel. Buat file baru pada 
 direktori app/Models dengan nama ArtikelModel.php
 
+![](img/3a%20view.jpg)
+
+
+
 #### Membuat Controller
 Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers. 
+
+![](img/3b%20controller.jpg)
+
 
 #### Membuat View
 Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file 
 baru dengan nama index.php. 
 
+![](img/3c%20view.jpg)
+
 Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikeL
+
+![](img/4%20empat.jpg)
 
 Belum ada data yang diampilkan. Kemudian coba tambahkan beberapa data pada 
 database agar dapat ditampilkan datanya.
