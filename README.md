@@ -61,18 +61,36 @@ Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/art
 Belum ada data yang diampilkan. Kemudian coba tambahkan beberapa data pada 
 database agar dapat ditampilkan datanya.
 
+![](img/5%20lima.jpg)
+
+![](img/6%20enam.jpg)
+
 Refresh kembali browser, sehingga akan ditampilkan hasilnya.
+
+
+![](img/7%20right.jpg)
+
 
 #### Membuat Tampilan Detail Artikel
 Tampilan pada saat judul berita di klik maka akan diarahkan ke halaman yang berbeda. 
 Tambahkan fungsi baru pada Controller Artikel dengan nama view().
 
+![](img/8a%20detailcontroller.jpg)
+
+
 #### Membuat View Detail
 Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php
+
+![](img/8b%20detailview.jpg)
+
 
 #### Membuat Routing untuk artikel detail
 Buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artikel 
 detail.
+
+![](img/8c%20detailroutes.jpg)
+
+![](img/8d%20delapan.jpg)
 
 #### Membuat Menu Admin
 Menu admin adalah untuk proses CRUD data artikel. Buat method baru pada 
