@@ -102,3 +102,30 @@ improvisasi.
 beserta screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus
+
+
+![](img/1%20satu.jpg)
+![](img/2%20dua.jpg)
+![](img/3a%20view.jpg)
+![](img/3b%20controller.jpg)
+![](img/3c%20view.jpg)
+![](img/4%20empat.jpg)
+![](img/5%20lima.jpg)
+![](img/6%20enam.jpg)
+![](img/7%20right.jpg)
+![](img/8a%20detailcontroller.jpg)
+![](img/8b%20detailview.jpg)
+![](img/8c%20detailroutes.jpg)
+![](img/8d%20delapan.jpg)
+![](img/9%20controlleradmin.jpg)
+![](img/9%20routes.jpg)
+![](img/9%20view.jpg)
+![](img/9%20view2.jpg)
+![](img/10%20controller.jpg)
+![](img/10%20view.jpg)
+![](img/10%20xadminadd.jpg)
+![](img/11%20edit1controller.jpg)
+![](img/11%20edit2view.jpg)
+![](img/11%20edit3.jpg)
+![](img/12%20hapus.jpg)
+![](img/12%20hapus1.jpg)
