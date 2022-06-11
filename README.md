@@ -96,29 +96,61 @@ detail.
 Menu admin adalah untuk proses CRUD data artikel. Buat method baru pada 
 Controller Artikel dengan nama admin_index(). 
 
+![](img/9%20controlleradmin.jpg)
+
+
 Selanjutnya buat view untuk tampilan admin dengan nama admin_index.php
+
+![](img/9%20view.jpg)
+![](img/9%20view2.jpg)
 
 Tambahkan routing untuk menu admin seperti berikut:
 
+![](img/9%20routes.jpg)
+
 
 Akses menu admin dengan url http://localhost:8080/admin/artikel
+
+![](img/admin%20css.jpg)
 
 
 #### Menambah Data Artikel
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama add()
 
+![](img/10%20controller.jpg)
+
 
 Kemudian buat view untuk form tambah dengan nama form_add.php
+
+![](img/10%20view.jpg)
+
+hasil 
+
+![](img/10%20xadminadd.jpg)
 
 #### Mengubah Data
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit(). 
 
+![](img/11%20edit1controller.jpg)
+
 
 Kemudian buat view untuk form tambah dengan nama form_edit.php
+
+![](img/11%20edit2view.jpg)
+
+hasil : 
+
+![](img/11%20edit3.jpg)
 
 
 #### Menghapus Data
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
+
+![](img/12%20hapus.jpg)
+
+Hasil :
+
+![](img/12%20hapus1.jpg)
 
 ## Pertanyaan dan Tugas
 
@@ -134,30 +166,3 @@ improvisasi.
 beserta screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus
-
-
-![](img/1%20satu.jpg)
-![](img/2%20dua.jpg)
-![](img/3a%20view.jpg)
-![](img/3b%20controller.jpg)
-![](img/3c%20view.jpg)
-![](img/4%20empat.jpg)
-![](img/5%20lima.jpg)
-![](img/6%20enam.jpg)
-![](img/7%20right.jpg)
-![](img/8a%20detailcontroller.jpg)
-![](img/8b%20detailview.jpg)
-![](img/8c%20detailroutes.jpg)
-![](img/8d%20delapan.jpg)
-![](img/9%20controlleradmin.jpg)
-![](img/9%20routes.jpg)
-![](img/9%20view.jpg)
-![](img/9%20view2.jpg)
-![](img/10%20controller.jpg)
-![](img/10%20view.jpg)
-![](img/10%20xadminadd.jpg)
-![](img/11%20edit1controller.jpg)
-![](img/11%20edit2view.jpg)
-![](img/11%20edit3.jpg)
-![](img/12%20hapus.jpg)
-![](img/12%20hapus1.jpg)
